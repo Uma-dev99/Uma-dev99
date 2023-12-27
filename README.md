@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Expense Tracker](https://github.com/Uma-dev99/Expense-Tracker)
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **Data Engineering**
 
-- 💬 Ask me about **HTML , CSS , JavaScript**
+- 💬 Ask me about **Javascript,ETL,Data Science,Machine Learning**
 
 - 📫 How to reach me **umashankar.singh.241099@gmail.con**
 
