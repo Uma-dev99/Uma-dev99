@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/abhi_as_ar" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_as_ar?logo=twitter&style=for-the-badge" alt="abhi_as_ar" /></a> </p>
 
-- 🔭 I’m currently working on **Web Scraping**
+- 🔭 I’m currently working on **Natural Language Processing**
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **ETL,Data Science,Machine Learning,Python**
+- 💬 Ask me about **Data Science,Machine Learning,Python**
 
 - 📫 How to reach me **umashankar.singh.241099@gmail.con**
 
