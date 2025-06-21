@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Uma Shankar Singh</h1>
-<h3 align="center">Data Scientist from India</h3>
+<h3 align="center">Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uma-dev99&label=Profile%20views&color=0e75b6&style=flat" alt="uma-dev99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhi_as_ar" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_as_ar?logo=twitter&style=for-the-badge" alt="abhi_as_ar" /></a> </p>
 
-- 🔭 I’m currently working on **Natural Language Processing**
+- 🔭 I’m currently working on **Django and AI agents**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Backend Architecture for AI application**
 
-- 💬 Ask me about **Data Science,Machine Learning,Python**
+- 💬 Ask me about **Data Science,Machine Learning,Python,Django,Flask**
 
 - 📫 How to reach me **umashankar.singh.241099@gmail.con**
 
