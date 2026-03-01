@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/abhi_as_ar" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_as_ar?logo=twitter&style=for-the-badge" alt="abhi_as_ar" /></a> </p>
 
-- 🔭 I’m currently working on **Django and AI agents**
+- 🔭 I’m currently working on **Data Science and AI agents**
 
-- 🌱 I’m currently learning **Backend Architecture for AI application**
+- 🌱 I’m currently learning **AI/ML System Engineering**
 
-- 💬 Ask me about **Data Science,Machine Learning,Python,Django,Flask**
+- 💬 Ask me about **Data Science,Machine Learning,Python,Flask**
 
 - 📫 How to reach me **umashankar.singh.241099@gmail.con**
 
