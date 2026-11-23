@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python,FastAPI, Full Stack Development**
 
-- 📫 How to reach me **umashankar.singh.241099@gmail.con**
+- 📫 How to reach me **umashankar.singh.241099@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
