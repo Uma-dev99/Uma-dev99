@@ -30,22 +30,6 @@ reconciliation of uncertain API results, and a full audit trail**.
 
 `Django` `DRF` `Celery` `Celery Beat` `PostgreSQL` `React` `Docker`
 
-### [Bihar Bhoomi Sahayata](https://github.com/Uma-dev99/Bihar-Bhoomi-Sahayata-website)
-
-Bilingual (Hindi / English) website for a land-record consultancy. Visitors send enquiries
-through a rate-limited API; the owner manages them in a password-protected Django admin.
-Includes a Jenkins pipeline: lint → test → build → staging → approval → production.
-
-`Django` `DRF` `React` `Vite` `i18next` `PostgreSQL` `Jenkins`
-
-### [Resumely — Smart LLM](https://github.com/Uma-dev99/Resumely--Smart-LLM)
-
-Compares a resume against a job description, scores the match percentage, and lists the
-missing keywords, using an LLM.
-
-`Python` `LLM` `Streamlit`
-
----
 
 ## 🛠️ Tech stack
 
