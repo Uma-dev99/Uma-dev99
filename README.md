@@ -1,26 +1,60 @@
-<h1 align="center">Hi 👋, I'm Uma Shankar Singh</h1>
-<h3 align="center">Software Engineer </h3>
+# Hi, I'm Uma Shankar Singh 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uma-dev99&label=Profile%20views&color=0e75b6&style=flat" alt="uma-dev99" /> </p>
+### Django & React developer — I build web apps and automate business workflows
 
-<p align="left"> <a href="https://twitter.com/abhi_as_ar" target="blank"><img src="https://img.shields.io/twitter/follow/abhi_as_ar?logo=twitter&style=for-the-badge" alt="abhi_as_ar" /></a> </p>
+I build production-ready **Django / Django REST Framework** backends, **React** frontends, and the
+background automation that holds a business together: scheduled jobs, billing, third-party API
+integrations, and admin dashboards that non-technical owners can actually use.
 
-- 🔭 I’m currently working on **Django/FastAPI-Full Stack Developments**
+**What I can help you with**
 
-- 🌱 I’m currently learning **Ai agents**
+- 🔧 REST APIs with Django + DRF (auth, permissions, filtering, pagination, docs)
+- ⏱️ Background jobs and scheduling with Celery + Redis (retries, idempotency, no duplicate work)
+- 🧾 Billing, invoicing and payment/API integrations
+- 🖥️ React frontends connected to Django APIs
+- 🐛 Fixing bugs and improving existing Django projects
+- 🐳 Docker setup, CI pipelines, and deployment
 
-- 💬 Ask me about **Python,FastAPI, Full Stack Development**
+[![Hire me on Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017d25bc745ab4ac54)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umashankar.singh.241099@gmail.com)
 
-- 📫 How to reach me **umashankar.singh.241099@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhi_as_ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhi_as_ar" height="30" width="40" /></a>
-</p>
+## ⭐ Featured projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### [Recurring Invoice Automation System](https://github.com/Uma-dev99/Recurring-Invoice-Automation-System) · [Live demo](https://uma-dev99.github.io/Recurring-Invoice-Automation-System)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uma-dev99&show_icons=true&locale=en" alt="uma-dev99" /></p>
+Billing orchestration for recurring agreements. It generates monthly billing obligations and
+submits invoices to an external billing provider, with **duplicate prevention, automatic retries,
+reconciliation of uncertain API results, and a full audit trail**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uma-dev99&" alt="uma-dev99" /></p>
+`Django` `DRF` `Celery` `Celery Beat` `PostgreSQL` `React` `Docker`
+
+### [Bihar Bhoomi Sahayata](https://github.com/Uma-dev99/Bihar-Bhoomi-Sahayata-website)
+
+Bilingual (Hindi / English) website for a land-record consultancy. Visitors send enquiries
+through a rate-limited API; the owner manages them in a password-protected Django admin.
+Includes a Jenkins pipeline: lint → test → build → staging → approval → production.
+
+`Django` `DRF` `React` `Vite` `i18next` `PostgreSQL` `Jenkins`
+
+### [Resumely — Smart LLM](https://github.com/Uma-dev99/Resumely--Smart-LLM)
+
+Compares a resume against a job description, scores the match percentage, and lists the
+missing keywords, using an LLM.
+
+`Python` `LLM` `Streamlit`
+
+---
+
+## 🛠️ Tech stack
+
+**Backend:** Python · Django · Django REST Framework · FastAPI · Celery · Redis
+**Frontend:** React · JavaScript · TypeScript · HTML · CSS
+**Data:** PostgreSQL · MySQL
+**DevOps:** Docker · Git · GitHub Actions · Jenkins · Linux
+**Currently learning:** AI agents and LLM integration in web apps
+
+---
+
+📍 Gurgaon, India · Open to freelance and remote work
