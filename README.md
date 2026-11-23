@@ -1,6 +1,6 @@
 # Hi, I'm Uma Shankar Singh 👋
 
-### Django & React developer — I build web apps and automate business workflows
+### Django & React developer  I build web apps and automate business workflows
 
 I build production-ready **Django / Django REST Framework** backends, **React** frontends, and the
 background automation that holds a business together: scheduled jobs, billing, third-party API
