@@ -1,4 +1,4 @@
-# Hi, I'm Uma Shankar Singh 👋
+# Hi, I'm Uma Shankar Singh 
 
 ### Django & React developer  I build web apps and automate business workflows
 
